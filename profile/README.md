@@ -1,5 +1,3 @@
-# Ditsmod
-
 Welcome to the official **Ditsmod** organization on GitHub!
 
 **DI + TypeScript + Modularity** — Node.js framework for building scalable server-side applications. It embraces deep modularity and hierarchical Dependency Injection, architecturally inspired by Angular.
