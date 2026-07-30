@@ -1,8 +1,8 @@
-# 🚀 Ditsmod (Dependency Injection Tool for Server Modules)
+# 🚀 Ditsmod
 
 Welcome to the official **Ditsmod** organization on GitHub!
 
-**Ditsmod** is a modern, fast, and scalable Node.js web framework written in TypeScript. It embraces deep modularity and Dependency Injection, architecturally inspired by Angular.
+**DI + TypeScript + Modularity** — Node.js framework for building scalable server-side applications. It embraces deep modularity and hierarchical Dependency Injection, architecturally inspired by Angular.
 
 ## 📌 Main Resources
 
