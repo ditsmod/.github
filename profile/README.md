@@ -1,5 +1,3 @@
-<a href="https://ditsmod.github.io/en/"><img src="../images/logo.svg" alt="Ditsmod Logo" width="50" /></a>
-
 # Ditsmod
 
 Welcome to the official **Ditsmod** organization on GitHub!
