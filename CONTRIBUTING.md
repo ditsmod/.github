@@ -1,6 +1,6 @@
-# Contributing to Ditsmod
+# Contributing to Holu
 
-Thank you for your interest in contributing to Ditsmod! 🎉  
+Thank you for your interest in contributing to Holu! 🎉  
 Every contribution — whether it's a bug report, a documentation fix, or a new feature — is greatly appreciated.
 
 ## Table of Contents
@@ -22,14 +22,14 @@ Please be respectful and constructive in all interactions. This project follows 
 - **Report bugs** – Open a GitHub Issue in the relevant repository with a clear description and reproduction steps.
 - **Suggest features** – Open an issue tagged `enhancement` to discuss ideas before implementing.
 - **Fix bugs or add features** – Pick up an existing open issue (look for `good first issue` or `help wanted` labels).
-- **Improve documentation** – The main documentation lives in the [ditsmod/ditsmod](https://github.com/ditsmod/ditsmod) repository under the `website` directory.
+- **Improve documentation** – The main documentation lives in the [holu/holu](https://github.com/holujs/holu) repository under the `website` directory.
 
 > [!NOTE]
 > Please open or comment on an issue before submitting a non-trivial PR so we can discuss the approach and avoid wasted effort.
 
 ## Development Workflow and Testing
 
-Since the Ditsmod organization contains multiple repositories, each project may have its own specific development environment, build tools, and testing procedures. 
+Since the Holu organization contains multiple repositories, each project may have its own specific development environment, build tools, and testing procedures. 
 
 Please refer to the `README.md` or a local `CONTRIBUTING.md` (if present) in the specific repository you are working on for instructions on how to:
 - Install dependencies
@@ -79,7 +79,7 @@ Common types from Conventional Commits:
 
 The scope depends on the specific repository you are contributing to:
 
-- **For monorepos (like `ditsmod/ditsmod`)**: Use the package folder name (e.g., `core`, `router`, `cors`).
+- **For monorepos (like `holujs/holu`)**: Use the package folder name (e.g., `core`, `router`, `cors`).
 - **For single-package repositories**: The scope might be related to specific components, configurations (e.g., `ci`, `deps`), or omitted if the repository maintainers allow it.
 
 Check the repository's commit history for examples of commonly used scopes.
