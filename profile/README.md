@@ -1,6 +1,6 @@
 Welcome to the official **Holu** organization on GitHub!
 
-**DI + TypeScript + Modularity** — Node.js framework for building scalable server-side applications. It embraces deep modularity and hierarchical Dependency Injection, architecturally inspired by Angular.
+*Holu* is a Hawaiian word for "to run" — and that's what this framework helps you do: **run scalable server-side applications** on Node.js, powered by DI, TypeScript, and true modularity.
 
 ## Main Resources
 
